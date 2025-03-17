@@ -32,8 +32,8 @@ I'm a cybersecurity student deeply interested in the operational aspects of secu
 
 Here are some of the projects I'm working on or have completed:
 
-* **Automated File Integrity Monitoring FIM  (PowerShell):** Leveraged Power-Shell scripting to automate file integrity verification processes, significantly strengthening the organization's overall security framework.
-* **Web Automation Instagram bot (Python):** This project involved exploring the capabilities of web automation tools like Selenium. I learned how to control a web browser programmatically to interact with various elements on a webpage. This could be useful for tasks like data scraping (with permission) or testing web applications (within ethical guidelines)
+* **Automated File Integrity Monitoring [FIM](https://github.com/SilentAshes/FIM/)  (PowerShell):** Leveraged Power-Shell scripting to automate file integrity verification processes, significantly strengthening the organization's overall security framework.
+* **Web Automation [Instagram bot](https://github.com/SilentAshes/IG-BOT/) (Python):** This project involved exploring the capabilities of web automation tools like Selenium. I learned how to control a web browser programmatically to interact with various elements on a webpage. This could be useful for tasks like data scraping (with permission) or testing web applications (within ethical guidelines)
 * **ELK Stack Configuration & Dashboards:** Implemented an Elastic Stack SIEM home lab with Kali Linux event generation and Elastic Agent log collection. Created dashboards and alerts for security event analysis and incident response.
 * **Custom Intrusion Detection System (C):** Developing a basic IDS for learning purposes **(under devlopment)**
 
