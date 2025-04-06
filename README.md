@@ -1,100 +1,160 @@
-# My SOC Journey: Building a Robust Defense 🛡️
+# 💻 My SOC Journey: Building a Robust Defense 🛡️
 
 <p align="center">
-    <img src="https://imgur.com/RiJnqCe.gif" alt="SOC" width="500" height='200'>
+    <img src="https://imgur.com/RiJnqCe.gif" alt="SOC Journey" width="500" height='200'>
 </p>
 
-Welcome to my GitHub repository! This space documents my journey as a cybersecurity student with a strong passion for Security Operations Centers (SOCs). Here, you'll find projects, scripts, and resources that showcase my skills and dedication to building and maintaining effective security defenses.
+Welcome to my GitHub repository! 🚀  
+This is the space where I document my journey as a cybersecurity student with a focus on **Security Operations Centers (SOCs)**. Here, you'll find projects, resources, scripts, and tools I’ve developed and continue to work on. Join me as I explore the fascinating world of cybersecurity and defense strategies.
 
-## About Me 🧑‍💻
+---
 
-I'm a cybersecurity student deeply interested in the operational aspects of security. My focus lies in understanding and implementing proactive and reactive security measures to protect systems and data from evolving threats. I believe in continuous learning and hands-on experience to master the art of threat detection and response.
+## 👨‍💻 About Me
 
-## Skills & Technologies 🛠️
+I’m a passionate **cybersecurity student** with a deep interest in building and maintaining secure systems. My focus is on **Security Operations Centers (SOCs)** and how they monitor, detect, and respond to security threats in real time.  
+I believe in **continuous learning** and **hands-on experience** to stay ahead in this ever-evolving field of cybersecurity. My aim is to become a skilled **SOC analyst** and contribute to global cybersecurity defense.
 
-* **Programming Languages:** Python, C, C++, Go (Golang), PowerShell
-* **Operating Systems:** Linux (Ubuntu, Kali), Windows
-* **Security Information and Event Management (SIEM):** ELK Stack (Elasticsearch, Logstash, Kibana)
-* **Cloud Platforms:** Google Cloud Platform (GCP)
-* **Scripting & Automation:** Automating security tasks, log analysis, and incident response
-* **Threat Detection & Analysis:** Identifying and analyzing security threats and vulnerabilities
+---
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python Badge"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge"/>
-    <img src="https://img.shields.io/badge/PowerShell-0078D4?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell Icon">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch Badge"/>
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Badge"/>
+## 🛡️ Skills & Technologies
+
+Here are some of the tools and technologies I’m currently using or learning:
+
+### 🧠 **Programming & Scripting**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Golang"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell"/>
 </p>
 
-## Projects 📂
+### 🖥️ **Operating Systems & Cloud Platforms**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://img.icons8.com/color/48/kali-linux.png" alt="Kali Linux" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud"/>
+</p>
 
-Here are some of the projects I'm working on or have completed:
+### 📊 **SIEM, EDR & Monitoring Tools**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="Elasticsearch"/>
+  <img src="https://raw.githubusercontent.com/wazuh/wazuh/master/assets/images/logo.svg" height="40" alt="Wazuh"/>
+  <img src="https://raw.githubusercontent.com/CrowdStrike/psfalcon/master/images/crowdstrike.png" height="40" alt="CrowdStrike"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Wireshark_icon.svg" height="40" alt="Wireshark"/>
+  <img src="https://raw.githubusercontent.com/zeek/zeek-website/master/static/images/zeek-logo.svg" height="40" alt="Zeek"/>
+  <img src="https://suricata.io/wp-content/uploads/2022/10/suricata-logo.svg" height="40" alt="Suricata"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Tcpdump-logo.png" height="40" alt="tcpdump"/>
+</p>
 
-* **Automated File Integrity Monitoring [FIM](https://github.com/SilentAshes/FIM/)  (PowerShell):** Leveraged Power-Shell scripting to automate file integrity verification processes, significantly strengthening the organization's overall security framework.
-* **Web Automation [Instagram bot](https://github.com/SilentAshes/IG-BOT/) (Python):** This project involved exploring the capabilities of web automation tools like Selenium. I learned how to control a web browser programmatically to interact with various elements on a webpage. This could be useful for tasks like data scraping (with permission) or testing web applications (within ethical guidelines)
-* **ELK Stack Configuration & Dashboards:** Implemented an Elastic Stack SIEM home lab with Kali Linux event generation and Elastic Agent log collection. Created dashboards and alerts for security event analysis and incident response.
-* **Custom Intrusion Detection System (C):** Developing a basic IDS for learning purposes **(under devlopment)**
+### 🕵️‍♂️ **Threat Intelligence & Frameworks**
+<p align="left">
+  <img src="https://www.virustotal.com/static/images/favicon-32x32.png" height="40" alt="VirusTotal"/>
+  <img src="https://attack.mitre.org/favicon.ico" height="40" alt="MITRE ATT&CK"/>
+  <img src="https://www.sans.org/favicon.ico" height="40" alt="SANS"/>
+</p>
 
-## Contributions & Collaboration 🤝
+---
 
-I'm always looking for opportunities to collaborate on exciting security projects. Feel free to reach out if you have any ideas or suggestions!
+## 📂 Projects
 
-## Learning Resources & Courses 📚
+Here are some of the **hands-on projects** I’m working on or have completed:
 
-**Foundational Resources:**
+- **[Automated File Integrity Monitoring (FIM) with PowerShell](https://github.com/SilentAshes/FIM/):**  
+  Designed a script for automating file integrity checks to enhance organizational security. This script monitors critical system files and alerts on any unauthorized changes.
 
-* [OWASP (Open Web Application Security Project)](https://owasp.org/)
-* [SANS Institute](https://www.sans.org/)
-* [NIST Cybersecurity Resources](https://www.nist.gov/itl/applied-cybersecurity/nice/resources)
-* [Cybersecurity Guide (CISA)](https://www.cisa.gov/cybersecurity-guide)
-* [MITRE ATT&CK Framework](https://attack.mitre.org/)
+- **[Web Automation with Python (Instagram Bot)](https://github.com/SilentAshes/IG-BOT/):**  
+  Explored **Selenium** for web automation. This bot automates interactions with Instagram (for ethical purposes) and can be extended for testing web applications.
 
-**SOC & Incident Response Specific:**
+- **[ELK Stack Configuration & Dashboards:](https://github.com/SilentAshes/ELK-Stack):**  
+  Set up an **ELK Stack** to simulate a SIEM environment with **Kali Linux** event generation. Created custom dashboards for log analysis and security event monitoring.
 
-* [Practical Malware Analysis](https://nostarch.com/malware) (Book)
-* [The Practice of Network Security Monitoring](https://nostarch.com/nsm) (Book)
-* [Incident Response & Computer Forensics, 3rd Edition](https://www.mheducation.com/9781259837175-usa-incident-response-computer-forensics-3e) (Book)
-* [SOC Core Skills](https://www.sans.org/cyber-security-courses/soc-core-skills/) (SANS Course)
-* [eCIR: Incident Handling and Response](https://www.elearnsecurity.com/course/incident_handling_and_response/) (eLearnSecurity Course)
-* [GSOC: Security Operations Center Analyst](https://www.giac.org/certifications/security-operations-center-analyst-gsoc/) (GIAC Certification)
+- **[Custom Intrusion Detection System (C) - Under Development](https://github.com/SilentAshes/Custom-IDS):**  
+  A simple IDS built in C to detect suspicious activities, such as port scanning and denial-of-service attempts. This project is still in the development phase.
 
-**Operating System & Networking:**
+---
 
-* [Linux Journey](https://linuxjourney.com/)
-* [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online-lectures.htm) (Book & Online Resources)
+## 🤝 Contributions & Collaboration
 
-**Programming for Security:**
+I’m always open to collaboration and contributing to open-source projects. Let’s build **secure systems** together!  
+Feel free to reach out to me if you have ideas or if you want to discuss cybersecurity!
 
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) (Python for Automation)
-* [Black Hat Python](https://nostarch.com/black-hat-python) (Python for Penetration Testing)
+---
 
-## My GitHub Stats 📊
+## 📚 Learning Resources & Courses
+
+### **Foundational Cybersecurity Resources:**
+- [OWASP (Open Web Application Security Project)](https://owasp.org/)
+- [SANS Institute](https://www.sans.org/)
+- [NIST Cybersecurity Resources](https://www.nist.gov/itl/applied-cybersecurity/nice/resources)
+- [CISA Cybersecurity Guide](https://www.cisa.gov/cybersecurity-guide)
+- [MITRE ATT&CK Framework](https://attack.mitre.org/)
+
+### **SOC & Incident Response Specific:**
+- [Practical Malware Analysis (Book)](https://nostarch.com/malware)
+- [The Practice of Network Security Monitoring (Book)](https://nostarch.com/nsm)
+- [Incident Response & Computer Forensics, 3rd Edition (Book)](https://www.mheducation.com/9781259837175-usa-incident-response-computer-forensics-3e)
+- [SOC Core Skills (SANS Course)](https://www.sans.org/cyber-security-courses/soc-core-skills/)
+- [eCIR: Incident Handling and Response (eLearnSecurity Course)](https://www.elearnsecurity.com/course/incident_handling_and_response/)
+- [GSOC: Security Operations Center Analyst (GIAC Certification)](https://www.giac.org/certifications/security-operations-center-analyst-gsoc/)
+
+### **Operating System & Networking:**
+- [Linux Journey](https://linuxjourney.com/)
+- [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online-lectures.htm)
+
+### **Programming for Security:**
+- [Automate the Boring Stuff with Python (Book)](https://automatetheboringstuff.com/)
+- [Black Hat Python (Book)](https://nostarch.com/black-hat-python)
+
+---
+
+## 📊 My GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilentAshes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentAshes&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Connect with Me 🔗
+---
 
-* [LinkedIn](https://www.linkedin.com/in/mostafa-akram-it)
-* [X](https://x.com/SilentAshes_v1)
-* [Email](mostafaelnaggar0129@gmail.com)
+## 📬 Connect with Me
 
-## Future Goals 🚀
+Feel free to reach out! Let’s build a **secure digital world** together. 🌐
 
-* Obtain relevant cybersecurity certifications (e.g., CompTIA Security+, CEH, eCIR , GSOC).
-* Contribute to open-source security projects.
-* Gain experience in a real-world SOC environment.
-
-## How to use this repository.
-
-Each project will have its own README.md with instructions on how to use it.
-Feel free to clone, fork and use any of the materials here.
+- [LinkedIn](https://www.linkedin.com/in/mostafa-akram-it)
+- [X](https://x.com/SilentAshes_v1)
+- [Email](mostafaelnaggar0129@gmail.com)
 
 ---
 
-Thank you for visiting my GitHub repository! Let's build a safer digital world together. 🌐
+## 🚀 Future Goals: Building the Future of Cybersecurity
+
+As I continue my journey into the world of cybersecurity, here are some of my **key objectives** and **aspirations** for the future:
+
+1. **Obtain Advanced Cybersecurity Certifications:**
+   - I plan to pursue certifications like **CompTIA Security+**, **Certified Ethical Hacker (CEH)**, **eCIR (eLearnSecurity Certified Incident Responder)**, and **GSOC (GIAC Security Operations Center Analyst)**. These certifications will help me solidify my knowledge and make me a more effective professional in the field of SOCs.
+
+2. **Contribute to Open-Source Security Projects:**
+   - Open-source projects have always been an essential part of my learning process. Moving forward, I want to contribute more actively to high-impact **security tools** and **SIEM solutions** to help strengthen the cybersecurity community and gain exposure to real-world scenarios.
+
+3. **Gain Hands-On Experience in a SOC Environment:**
+   - A major milestone in my journey is to gain real-world experience by working in a **Security Operations Center (SOC)**. This will provide valuable insights into **incident detection, response**, and **forensics** while allowing me to develop expertise in **log analysis**, **threat hunting**, and **automated defenses**.
+
+4. **Mentor Future Cybersecurity Professionals:**
+   - As I advance in my career, I aim to give back to the community by mentoring aspiring cybersecurity professionals. Sharing my knowledge through workshops, online courses, and forums will allow me to contribute to the growth of the next generation of cybersecurity experts.
+
+5. **Stay Ahead of Emerging Cybersecurity Trends:**
+   - Cybersecurity is a rapidly evolving field, and I am committed to staying at the cutting edge. Whether it's **Zero Trust Architecture**, **Quantum Security**, or **Blockchain Security**, I plan to continuously research and adapt to emerging trends to future-proof my skills and expertise.
+
+
+---
+
+## 🛠️ How to Use This Repository
+
+Each project in this repository has its own `README.md` file with clear instructions on how to use it.  
+Feel free to **clone**, **fork**, or **contribute** to any of the materials here. Together, we can keep building more secure systems!
+
+---
+
+Thanks for visiting my GitHub repository! Let's make the digital world a safer place. 🌐✨
