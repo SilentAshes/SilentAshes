@@ -30,19 +30,10 @@ Here are some of the tools and technologies I’m currently using or learning:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell"/>
 </p>
 
-### 🖥️ **Operating Systems & Cloud Platforms**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://img.icons8.com/color/48/kali-linux.png" alt="Kali Linux" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud"/>
-</p>
-
 ### 📊 **SIEM, EDR & Monitoring Tools**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="Elasticsearch"/>
   <img src="https://raw.githubusercontent.com/wazuh/wazuh/master/assets/images/logo.svg" height="40" alt="Wazuh"/>
-  <img src="https://raw.githubusercontent.com/CrowdStrike/psfalcon/master/images/crowdstrike.png" height="40" alt="CrowdStrike"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Wireshark_icon.svg" height="40" alt="Wireshark"/>
   <img src="https://raw.githubusercontent.com/zeek/zeek-website/master/static/images/zeek-logo.svg" height="40" alt="Zeek"/>
   <img src="https://suricata.io/wp-content/uploads/2022/10/suricata-logo.svg" height="40" alt="Suricata"/>
