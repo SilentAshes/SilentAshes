@@ -68,11 +68,15 @@ Here are some of the **hands-on projects** I’m working on or have completed:
 - **[Web Automation with Python (Instagram Bot)](https://github.com/SilentAshes/IG-BOT/):**  
   Explored **Selenium** for web automation. This bot automates interactions with Instagram (for ethical purposes) and can be extended for testing web applications.
 
-- **[ELK Stack Configuration & Dashboards:](https://github.com/SilentAshes/ELK-Stack):**  
+- **ELK Stack Configuration & Dashboards:**  
   Set up an **ELK Stack** to simulate a SIEM environment with **Kali Linux** event generation. Created custom dashboards for log analysis and security event monitoring.
 
 - **[Custom Intrusion Detection System (C) - Under Development](https://github.com/SilentAshes/Custom-IDS):**  
   A simple IDS built in C to detect suspicious activities, such as port scanning and denial-of-service attempts. This project is still in the development phase.
+
+- **[BugztackV0.1 - Under Development](https://github.com/SilentAshes/BugztackV0.1):**  
+  Bugztack streamlines the setup of essential cybersecurity tools—covering both Red Team (offensive) and Blue Team (defensive) needs—directly from your web browser. Say goodbye to tedious manual installations and hello to 
+  faster, more efficient lab environments.
 
 ---
 
